@@ -2,3 +2,5 @@
 
 MODULE 1- SDLC (AGILE FOR BEGINNERS - GREAT LEARNING)
 ![W1- AGILE FOR BEGINNERS GREAT LEARNING](https://github.com/user-attachments/assets/78993c04-efee-4324-9b9a-b085d0fdbaa4)
+MODULE 2- GIT (GIT TRAINING - SIMPLI LEARN)
+![GIT SIMPLI LEARN CERTIFICATE](https://github.com/user-attachments/assets/7392bdc7-3b9e-4d68-92b8-9f6c00ec49e8)
